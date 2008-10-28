@@ -1,6 +1,6 @@
 videoproto
 ------------------------------------------
-Xorg XVideo protocol headers
+X.Org XVideo protocol headers
 
 Build requirements:
   cygwin-1.5.20-1
