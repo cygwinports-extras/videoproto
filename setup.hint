@@ -1,3 +1,3 @@
 category: X11
-sdesc: "X.Org XVideo protocol headers"
-ldesc: "X.Org XVideo protocol headers"
+sdesc: "X.Org XVideo extension headers"
+ldesc: "X.Org XVideo extension headers"
